@@ -1,1 +1,2 @@
-123456
+RC301FW Ver6.5# https://github.com/Hooman59/FW_1.git
+RC302FW Ver4.5# https://github.com/Hooman59/FW_1.git
